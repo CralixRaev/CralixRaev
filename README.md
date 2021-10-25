@@ -1,6 +1,6 @@
-### Some shitty python and golang dev
+#### Some shitty python and golang dev
 
-## Hello!! My name is Anatoly, i am 14 and i from Moscow.
-# I currently studying in Yandex Academy Lyceum.
+Hello!! My name is Anatoly, i am 14 and i from Moscow.
+I currently studying in Yandex Academy Lyceum.
 
-# You can find me at https://vk.com/cralix.tiff, or write to cralixraev@gmail.com. My website is cralix.ru
+###### You can find me at https://vk.com/cralix.tiff, or write to cralixraev@gmail.com. My website is cralix.ru
