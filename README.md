@@ -1,6 +1,18 @@
-#### Some python and golang dev
+# Hello there 👋🏼
 
-Hello!! My name is Anatoly, i am 15 and i from Moscow.
-I now graduaded from Yandex Academy Lyceum and live the dream of becoming a real developer.
+Welcome! 🙃
+My name is Anatoly, and i'm 15. (actually, i am an Anatoly Anatolievich lol)
 
-###### You can find me at https://vk.com/cralixraev, or write to cralixraev@gmail.com. My website is https://cralix.ru
+🇷🇺 🤝 🇺🇦 Speak cyrillic
+
+For now my primary language is Python, but i actively learn Golang.
+I graduaded from Yandex Academy Lyceum as a excellent student ☺️
+
+Except programming, i'm passionate about computer networks. 
+I accidentally took third place in the Worldskills Junior competition in the computer networking module.
+
+Now i'm working on creating nice and enjoyable to use [Python api wrapper]() for russian CRM and WMS system called Moysklad 🛠. 
+###### ~~You can find me at the club...~~ sorry, actually
+###### you can find me at https://vk.com/cralixraev (russian social network Vkontakte), @cralixraev (Telegram and many other places, probably)
+###### or just write to cralixraev@gmail.com ✉️.
+###### My website is https://cralix.ru, but there is nothing on it 🥲
