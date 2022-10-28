@@ -1,6 +1,6 @@
 # Привет! 👋🏼
 
-Привет-привет! Я Толя, мне 15, и я обожаю программировать.
+Привет-привет! Я Толя, и я обожаю программировать.
 Мой основной язык сейчас это Python, но я активно учу и параллельно влюбляюсь в Go 😍.
 
 Я закончил Лицей Академии Яндекса с отличием (а ещё как топ-1 по площадке 😎).
@@ -15,7 +15,7 @@
 # Hello there 👋🏼
 
 Welcome! 🙃
-My name is Anatoly, and i'm 15. (actually, i am an Anatoly Anatolievich lol)
+My name is Anatoly (actually, i am an Anatoly Anatolievich lol)
 
 🇷🇺 🤝 🇺🇦 Speak cyrillic
 
