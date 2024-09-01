@@ -1,3 +1,3 @@
-make computers go beep-boop
+i make computers go beep-boop
 
-python with a lot of system design and system reliability things.
+highload python (lol), golang and a lot of system design and system reliability things.
